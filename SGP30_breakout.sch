@@ -213,8 +213,8 @@
 <device name="" package="DFN">
 <connects>
 <connect gate="G$1" pin="PAD" pad="P$7"/>
-<connect gate="G$1" pin="R" pad="P$4"/>
-<connect gate="G$1" pin="SCL" pad="P$6"/>
+<connect gate="G$1" pin="R" pad="P$6"/>
+<connect gate="G$1" pin="SCL" pad="P$4"/>
 <connect gate="G$1" pin="SDA" pad="P$3"/>
 <connect gate="G$1" pin="VDD" pad="P$1"/>
 <connect gate="G$1" pin="VDDH" pad="P$5"/>
@@ -2486,7 +2486,7 @@ CONN_04
 <plain>
 <text x="60.96" y="-25.4" size="2.54" layer="94" font="vector">Breakout board for Sensirion SGP30-2.5K</text>
 <text x="93.98" y="-35.56" size="2.54" layer="94" font="vector" align="bottom-center">Designed by AKstudios
-R1 - October 2017</text>
+R2 - November 2017</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="60.96" y="45.72"/>
